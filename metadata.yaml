@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7330
     wikipedia: http://en.wikipedia.org/wiki/William_Henry_Holmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19953#Origin-and-Development-of-Form-and-Ornament-in-Ceramic-Art.Government-Printing-Office-Washing_
 gutenberg_bookshelf:
 - Native America
 - Archaeology
